@@ -14,11 +14,14 @@
 
  '''
 
- '''bash
+ '''
+  bash
   conda activate telebot
 
  '''
- '''bash
+ 
+ ''' 
+ bash
  pip install -r requirement.txt
 
  '''
